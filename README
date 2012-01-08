@@ -1,0 +1,1 @@
+This program solves the multiple congruences given by the integer arrays constraints and mods. It returns a single congruence via the Chinese Remainder Theorem.
